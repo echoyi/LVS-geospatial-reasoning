@@ -17,8 +17,8 @@ My research questions for this project are: (1) Can LVS model predict short-term
 error? (2) How does LVS perform compared to KNN with sparse data?
 
 ## Data
-Airbnb listings data of Toronto, available from link:
-http://insideairbnb.com/get-the-data.html
+Used synethic data with piecewise boundaries:
+![data](https://github.com/echoyi/LVS-geospatial-reasoning/blob/master/data)
 
 ## Model
 ![LVS model](https://github.com/echoyi/LVS-geospatial-reasoning/blob/master/LVS-both.pdf)
