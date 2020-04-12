@@ -18,10 +18,10 @@ error? (2) How does LVS perform compared to KNN with sparse data?
 
 ## Data
 Used synethic data with piecewise boundaries:
-![data](https://github.com/echoyi/LVS-geospatial-reasoning/blob/master/data)
+![data](data/synthetic/groundTruth.png)
 
 ## Model
-![LVS model](https://github.com/echoyi/LVS-geospatial-reasoning/blob/master/LVS-both.pdf)
+![LVS model](model/LVS-new.png)
 
 ## References
 [1] BOURASSA, S., CANTONI, E., AND HOESLI, M. Predicting house prices with spatial dependence: A
