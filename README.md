@@ -1,6 +1,15 @@
 # LVS-geospatial-reasoning
 MIE1516 course final project
 
+## Final report
+![report](MIE1516_project_report.pdf)
+
+## Model implementations
+![Model](model) contains implementation of the model and results.
+
+## Synthetic data
+![Data](data/synthetic/) containts .ipynb for synthetic creation, created ground truth, training and testing datasets.
+
 ## Motivation
 Geospatial data is data about objects, events, or phenomena that have a location on the surface of the earth.[3]
 The widespread use of geospatial data enables lots of scientific studies and real-world applications. For
