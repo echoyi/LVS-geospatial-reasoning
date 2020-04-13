@@ -2,7 +2,7 @@
 MIE1516 course final project
 
 ## Final report
-![report](MIE1516_project_report.pdf)
+![report](MIE1516_project_final_report.pdf)
 
 ## Model implementations
 ![Model](model) contains implementation of the model and results.
