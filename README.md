@@ -2,13 +2,13 @@
 MIE1516 course final project
 
 ## Final report
-![report](MIE1516_project_final_report.pdf)
+[Final report](MIE1516_project_final_report.pdf)
 
 ## Model implementations
-![Model](model) contains implementation of the model and results.
+[Model](model) contains implementation of the model and results.
 
 ## Synthetic data
-![Data](data/synthetic/) containts .ipynb for synthetic creation, created ground truth, training and testing datasets.
+[Data](data/synthetic/) containts .ipynb for synthetic creation, created ground truth, training and testing datasets.
 
 ## Motivation
 Geospatial data is data about objects, events, or phenomena that have a location on the surface of the earth.[3]
